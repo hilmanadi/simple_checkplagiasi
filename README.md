@@ -1,0 +1,2 @@
+# simple_checkplagiasi
+wfh
